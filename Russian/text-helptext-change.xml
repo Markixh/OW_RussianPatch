@@ -122,6 +122,10 @@
 		<zType>TEXT_HELPTEXT_CONCAT_COLON_FRACTION</zType>
 		<Translation>{0}: {1}/{2}</Translation>
 	</Entry>
+	<Entry>	
+		<zType>TEXT_HELPTEXT_BULLET_LIST_BUILDER_FIRST</zType>	
+		<Translation>icon(bullet){0}</Translation>	
+	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_BULLET_LIST_BUILDER</zType>
 		<Translation><![CDATA[{0}<br>icon(bullet){1}]]></Translation>
@@ -366,6 +370,10 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LEGITIMACY_BONUS</zType>
 		<Translation>События</Translation>
+	</Entry>
+	<Entry>	
+		<zType>TEXT_HELPTEXT_LINK_NEXT_UNIT</zType>	
+		<Translation>Next Unit</Translation>	
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_OPINION_PREFERENCES</zType>
