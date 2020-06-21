@@ -7,27 +7,27 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_YES</zType>
-		<Translation>Yes</Translation>
+		<Translation>Да</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_NO</zType>
-		<Translation>No</Translation>
+		<Translation>Нет</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_OK</zType>
-		<Translation>OK</Translation>
+		<Translation>ОК</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_OKAY</zType>
-		<Translation>Okay</Translation>
+		<Translation>Окей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_NONE</zType>
-		<Translation>None</Translation>
+		<Translation>Пусто</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_RENAME</zType>
-		<Translation>Rename</Translation>
+		<Translation>Переименовать</Translation>
 	</Entry>
 	<!--General-->
 	<Entry>
@@ -80,19 +80,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_COMMA_AND_TWO</zType>
-		<Translation>{0}, and {1}</Translation>
+		<Translation>{0} и {1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_COMMA_OR_TWO</zType>
-		<Translation>{0}, or {1}</Translation>
+		<Translation>{0} или {1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_AND_TWO</zType>
-		<Translation>{0} and {1}</Translation>
+		<Translation>{0} и {1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_OR_TWO</zType>
-		<Translation>{0} or {1}</Translation>
+		<Translation>{0} или {1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_SLASH_TWO</zType>
@@ -123,10 +123,6 @@
 		<Translation>{0}: {1}/{2}</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_BULLET_LIST_BUILDER_FIRST</zType>
-		<Translation>icon(bullet){0}</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_HELPTEXT_BULLET_LIST_BUILDER</zType>
 		<Translation><![CDATA[{0}<br>icon(bullet){1}]]></Translation>
 	</Entry>
@@ -140,7 +136,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_ERA_YEAR</zType>
-		<Translation><![CDATA[{0_year} <true_1>CE<false>BCE<end>]]></Translation>
+		<Translation><![CDATA[{0_year} <true_1>н.э.<false>до н.э.<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_SIZE</zType>
@@ -184,28 +180,28 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PRESS_KEY</zType>
-		<Translation>[Press {0_key}]</Translation>
+		<Translation>[Нажать {0_key}]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_HOLD_KEY</zType>
-		<Translation>[Hold {0_key}]</Translation>
+		<Translation>[Удерживать {0_key}]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_REQUIRES</zType>
-		<Translation>Requires {0_list}</Translation>
+		<Translation>Требует: {0_list}</Translation>
 	</Entry>
 	<!--Links-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LUXURY</zType>
-		<Translation>Luxury~a Luxury~Luxuries</Translation>
+		<Translation>Редкий ресурс~Редкого ресурса~Редкому ресурсу~Редкий ресурс~Редким ресурсом~Редком ресурсе~Редкие ресурсы~Редких ресурсов~Редким ресурсам~Редкие ресурсы~Редкими ресурсами~Редких ресурсах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_DIFFICULTY</zType>
-		<Translation>Difficulty ({0_difficultyLevel})</Translation>
+		<Translation>Сложность ({0_difficultyLevel})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_EFFECT_PLAYER_SOURCE_RELIGION</zType>
-		<Translation>{0_religion} as State Religion</Translation>
+		<Translation>Государственная религия: {0_religion}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_EFFECT_CITY_SOURCE</zType>
@@ -213,99 +209,99 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_CONNECTED</zType>
-		<Translation><![CDATA[{0_icon}<true_1> Connected<false><end>]]></Translation>
+		<Translation><![CDATA[{0_icon}<true_1> Связан<false><end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_FRESH_WATER</zType>
-		<Translation>Fresh Water</Translation>
+		<Translation>Пресная вода</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_ROAD</zType>
-		<Translation>Road</Translation>
+		<Translation>Дорога~Дороги~Дороге~Дорогу~Дорогой~Дороге</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_OUTSIDE_BORDERS</zType>
-		<Translation>Outside Borders</Translation>
+		<Translation>Внешние границы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_SPECIALIST_ANY</zType>
-		<Translation>Specialist</Translation>
+		<Translation>Специалист</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_DISLOYALTY</zType>
-		<Translation>Disloyalty</Translation>
+		<Translation>Неверность~Неверности</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LARGEST_POPULATION</zType>
-		<Translation>Largest Population</Translation>
+		<Translation>Наибольшее население</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LARGEST_MILITARY</zType>
-		<Translation>Largest Military</Translation>
+		<Translation>Наибольшая армия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_SMALLEST_MILITARY</zType>
-		<Translation>Smallest Military</Translation>
+		<Translation>Наименьшая армия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_TUTOR_GENERIC</zType>
-		<Translation>Tutor~a Tutor~Tutors</Translation>
+		<Translation>Обучать</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_CITIZEN</zType>
-		<Translation>Citizen~a Citizen~Citizens</Translation>
+		<Translation>Житель~Жителя~Жителю~Жителя~Жителем~Жителе~Жители~Жителей~Жителям~Жителей~Жителями~Жителях</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HOLY_CITY</zType>
-		<Translation>Holy City~a Holy City~Holy Cities</Translation>
+		<Translation>Священный город~Священного города~Священному городу~Священный город~Священным городом~Священном городе</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_FAMILY_CITIES</zType>
-		<Translation>Cities</Translation>
+		<Translation>Города</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_FAMILY_SEAT</zType>
-		<Translation>Seat</Translation>
+		<Translation>Оплот семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_FAMILY_UNITS</zType>
-		<Translation>Units</Translation>
+		<Translation>Отряды</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LEGITIMACY</zType>
-		<Translation>icon(YIELD_LEGITIMACY)Legitimacy</Translation>
+		<Translation>icon(YIELD_LEGITIMACY) Легитимность~icon(YIELD_LEGITIMACY) Легитимности</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_GREAT_PERSON</zType>
-		<Translation>Great Person~a Great Person~Great People</Translation>
+		<Translation>Великий человек~Великого человека~Великому человеку~Великого человека~Великим человеком~Великом человеке~Великие люди~Великих людей~Великим людям~Великих людей~Великими людьми~Великих людях</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_GOVERNOR</zType>
-		<Translation>Governor~a Governor~Governors</Translation>
+		<Translation>Губернатор~Губернатора~Губернатору~Губернатора~Губернатором~Губернаторе~Губернаторы~Губернаторов~Губернаторам~Губернаторов~Губернаторами~Губернаторах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_GOVERNOR_INDISTICT</zType>
-		<Translation>Governor(s)</Translation>
+		<Translation>Губернатор(ы)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_PILLAGED</zType>
-		<Translation>Pillaged {0_turns}</Translation>
+		<Translation>Разграблено {0_turns}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LAUNCH_OFFENSIVE_GENERIC</zType>
-		<Translation>Launch Offensive</Translation>
+		<Translation>Начать наступление</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_CULTURE_LEVEL</zType>
-		<Translation>Culture Level~a Culture Level~Culture Levels</Translation>
+		<Translation>Уровень культуры~Уровня культуры~Уровню культуры~Уровень культуры~Уровнем культуры~Уровне культуры~Уровни культуры~Уровней культуры~Уровням культуры~Уровни культуры~Уровнями культуры~Уровнях культуры</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_UNIT_CYCLE</zType>
-		<Translation>{0_unitCycle} Units</Translation>
+		<Translation>{0_unitCycle} отряды</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_CAPITAL</zType>
-		<Translation><![CDATA[{0_icon}<true_1> Capital<false><end>]]></Translation>
+		<Translation><![CDATA[{0_icon}<true_1> Столица<false><end>~{0_icon}<true_1> Столицы<false><end>~{0_icon}<true_1> Столице<false><end>~{0_icon}<true_1> Столицу<false><end>~{0_icon}<true_1> Столицей<false><end>~{0_icon}<true_1> Столице<false><end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_TECH_PROGRESS</zType>
@@ -313,115 +309,111 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_BUILD_QUEUE_PROJECT</zType>
-		<Translation><![CDATA[{0_project}<true_1> (Repeat)<false><end>]]></Translation>
+		<Translation><![CDATA[{0_project}<true_1> (Повторяется)<false><end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_BUILD_QUEUE_PROJECT_COMPLETE</zType>
-		<Translation>{0_projectQueue} Complete!</Translation>
+		<Translation>{0_projectQueue} Выполнено!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_DISCONTENT</zType>
-		<Translation>Level {0_discontentLevel}</Translation>
+		<Translation>Уровень {0,1_discontentLevel}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LEGACIES_FINISHED</zType>
-		<Translation><![CDATA[<singular_0>Legacy<plural>Legacies<end> Finished]]></Translation>
+		<Translation><![CDATA[<singular_0>Завещание<plural>Завещания<plural2>Завещаний<end> выполнено]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_AMBITIONS_FINISHED</zType>
-		<Translation><![CDATA[<singular_0>Ambition<plural>Ambitions<end> Finished]]></Translation>
+		<Translation><![CDATA[<singular_0>Амбиция<plural>Амбиции<plural2>Амбиций<end> завершено]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_AMBITIONS</zType>
-		<Translation>Ambitions</Translation>
+		<Translation>Амбиции</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_BARBARIAN_SITES</zType>
-		<Translation>Site(s)</Translation>
+		<Translation>Лагеря</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_BARBARIAN_UNITS</zType>
-		<Translation>Special Units</Translation>
+		<Translation>Особые отряды</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_CHARACTER_TENDENCIES</zType>
-		<Translation>Character Tendencies</Translation>
+		<Translation>Склонности</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_CITY_IMPROVEMENTS</zType>
-		<Translation>Improvement(s)</Translation>
+		<Translation>Постройки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_CITY_SPECIALISTS</zType>
-		<Translation>Specialist(s)</Translation>
+		<Translation>Специалисты</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_CONNECTED_CITIES</zType>
-		<Translation>Connected Cit(ies)</Translation>
+		<Translation>Города, связанные со столицей</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_ENEMIES</zType>
-		<Translation>Enem(ies)</Translation>
+		<Translation>Враги</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_FAMILY_MEMBERS</zType>
-		<Translation>Members</Translation>
+		<Translation>Члены семьи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LEGITIMACY_BONUS</zType>
-		<Translation>Events</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_HELPTEXT_LINK_NEXT_UNIT</zType>
-		<Translation>Next Unit</Translation>
+		<Translation>События</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_OPINION_PREFERENCES</zType>
-		<Translation>Opinion Preferences</Translation>
+		<Translation>Предпочтения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_OUR_CITIES</zType>
-		<Translation>Our Cities</Translation>
+		<Translation>Наши города</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_RIVER</zType>
-		<Translation>River</Translation>
+		<Translation>Река~Реки~Реке~Реку~Рекой~Реке</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_ROLE_SPOUSE</zType>
-		<Translation>Spouse</Translation>
+		<Translation>Супгруг(а)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_ROLE_HEIR</zType>
-		<Translation>Heir</Translation>
+		<Translation>Наследник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_RURAL_SPECIALISTS</zType>
-		<Translation>Rural Specialists</Translation>
+		<Translation>Сельские специалисты~Сельских специалистов~Сельским специалистам~Сельских специалистов~Сельскими специалистами~Сельских специалистах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_URBAN_SPECIALISTS</zType>
-		<Translation>Urban Specialists</Translation>
+		<Translation>Городские специалисты~Городских специалистов~Городским специалистам~Городских специалистов~Городскими специалистами~Городских специалистах</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_STATE_RELIGION</zType>
-		<Translation>State Religion</Translation>
+		<Translation>Государственная религия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_TILE</zType>
-		<Translation>Tile {0_x}, {1_y}</Translation>
+		<Translation>Клетка {0_x}, {1_y}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_TRADE_BONUS</zType>
-		<Translation>Trade Bonus</Translation>
+		<Translation>Бонус от торговли</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_TRIBUTE</zType>
-		<Translation>Tribute</Translation>
+		<Translation>Дань</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_UNIT_CONSUMPTION</zType>
-		<Translation>Units</Translation>
+		<Translation>Отряды</Translation>
 	</Entry>
 	<!--Event Prereqs-->
 	<Entry>
@@ -430,84 +422,83 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES</zType>
-		<Translation>[Requires {0}]</Translation>
+		<Translation>[Требует: {0}]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_NO</zType>
-		<Translation>[Requires No {0}]</Translation>
+		<Translation>[Не требует: {0}]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_X</zType>
-		<Translation>[Requires {0}: {1}]</Translation>
+		<Translation>[Требует {0}: {1}]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_TWO</zType>
-		<Translation>[Requires {0}: {1} {2}]</Translation>
+		<Translation>[Требует {0}: {1} {2}]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_GT_LT</zType>
-		<Translation><![CDATA[[Requires {0}: >= {1} and <= {2}]]]>
-		</Translation>
+		<Translation><![CDATA[[Требует {0}: >= {1} и <= {2}]]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_GT</zType>
-		<Translation><![CDATA[[Requires {0}: >= {1}]]]></Translation>
+		<Translation><![CDATA[[Требует {0}: >= {1}]]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_LT</zType>
-		<Translation><![CDATA[[Requires {0}: <= {1}]]]></Translation>
+		<Translation><![CDATA[[Требует {0}: <= {1}]]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_GT_TWO</zType>
-		<Translation><![CDATA[[Requires {0}: >= {1} {2}]]]></Translation>
+		<Translation><![CDATA[[Требует {0}: >= {1} {2}]]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_LT_TWO</zType>
-		<Translation><![CDATA[[Requires {0}: <= {1} {2}]]]></Translation>
+		<Translation><![CDATA[[Требует {0}: <= {1} {2}]]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_NOT</zType>
-		<Translation><![CDATA[[Requires {0}: Not {1}]]]></Translation>
+		<Translation><![CDATA[[Требует {0}: Не {1}]]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_AGE_RANGE</zType>
-		<Translation><![CDATA[[Requires {0} Age: >= {1} and <= {2}]]]></Translation>
+		<Translation><![CDATA[[Требует возраст {0,1}: >= {1} и <= {2}]]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_AGE_GT</zType>
-		<Translation><![CDATA[[Requires {0} Age: >= {1}]]]></Translation>
+		<Translation><![CDATA[[Требует возраст {0,1}: >= {1}]]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_AGE_LT</zType>
-		<Translation><![CDATA[[Requires {0} Age: <= {1}]]]></Translation>
+		<Translation><![CDATA[[Требует возраст {0,1}: <= {1}]]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIREMENT_MARRIED</zType>
-		<Translation>Married</Translation>
+		<Translation>В браке</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIREMENT_SINGLE</zType>
-		<Translation>Single</Translation>
+		<Translation>Не в браке</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_COOLDOWN</zType>
-		<Translation><![CDATA[<true_0>Cooldown: <false><end>{1_turns}]]></Translation>
+		<Translation><![CDATA[<true_0>Восстановление: <false><end>{1_turns}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_COOLDOWN_NAME</zType>
-		<Translation>Cooldown: {0_name} ({1_turns})</Translation>
+		<Translation>Восстановление: {0_name} ({1_turns})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_COOLDOWN_WARNING</zType>
-		<Translation>On {0_name} Cooldown: {1_turns}</Translation>
+		<Translation>Восстановление {0,1_name}: {1_turns}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CAN_ACT_CONSUMES</zType>
-		<Translation>Consumes {0_yield}</Translation>
+		<Translation>Содержание: {0_yield}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CAN_ACT_OTHER_TURN</zType>
-		<Translation>Cannot use during other Team's Turn ({0})</Translation>
+		<Translation>Нельзя использовать во время хода другой команды ({0})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_HURRY_WARNING_CANNOT_HURRY</zType>
